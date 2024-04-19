@@ -108,6 +108,16 @@ body {
     color: aliceblue;
     font-size: 20px;
     margin-bottom: 40px;
+    margin-left: 0px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.left-menu-icon:hover,
+.left-menu-icon.active {
+    background-color: #374151;
+    color: grey;
 }
 
 .container {
