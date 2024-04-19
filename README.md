@@ -74,6 +74,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 
 
-**__License__**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+**THANKS FOR READING!!!**
