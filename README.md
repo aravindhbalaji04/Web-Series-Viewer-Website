@@ -1,11 +1,11 @@
-**WatchAgain Web Application**
+**__WatchAgain Web Application__**
 
 This repository contains the source code for the WatchAgain web application. WatchAgain is a simple movie and series browsing platform with a modern and responsive user interface.
 
 
 
 
-**Getting Started**
+**__Getting Started__**
 
 To run this project locally, follow these instructions:
 
@@ -18,7 +18,7 @@ git clone https://github.com/yourusername/watchagain.git
 
 
 
-**Features**
+**__Features__**
 
 Navigation: Browse through various categories like Home, Movies, Series, and Popular using the navigation menu.
 
@@ -31,7 +31,7 @@ Responsive Design: The application is designed to work seamlessly across differe
 
 
 
-**Technologies Used**
+**__Technologies Used__**
 
 HTML5
 
@@ -42,7 +42,7 @@ JavaScript (for interactive elements)
 
 
 
-**Folder Structure**
+**__Folder Structure__**
 
 The repository structure is organized as follows:
 
@@ -57,7 +57,7 @@ workfolder/: Directory containing images used in the application.
 
 
 
-**Contributing**
+**__Contributing__**
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -74,6 +74,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 
 
-**License**
+**__License__**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
